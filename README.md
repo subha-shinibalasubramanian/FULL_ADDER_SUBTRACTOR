@@ -41,9 +41,9 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/02b24f51-ab51-4304-9ad6-7b81ffc1ead5)
 
-Diff = A ⊕ B ⊕ Bin 
+Diff = A ⊕ B ⊕ Cin 
 
-Borrow out = A'Bin + A'B + BBin
+Borrow out = A'Cin + A'B + B'Cin
 
 **Procedure**
 
